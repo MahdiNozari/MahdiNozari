@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mahdi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3D8BFF&center=true&width=600&lines=Software+Developer+%7C;Passionate+about+DevOps+%26+Django;Building+innovative+projects+with+Python%26"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3D8BFF&center=true&width=600&lines=Software+Developer+%7C;Passionate+about+DevOps+%26+Django;Building+innovative+projects+with+Python%26">
 </p>
 
 ---
