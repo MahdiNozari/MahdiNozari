@@ -31,7 +31,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahdiNozari&show_icons=true&theme=tokyonight" height="150px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=MahdiNozari&theme=tokyonight" height="150px" />
 </p>
 
 <p align="center">
