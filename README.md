@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 🎓 I’m a Software Developer with expertise in Django.
-- 💡 Passionate about **Web Development, DevOps, and Network**.
+- 💡 Passionate about **Web Development, DevOps, and Networking**.
 - 🔭 Currently im Computer Engineering student at ShahidBahonar university of Kerman.
 - 📫 Reach me at: mahdi.nozari933@gmail.com.
 
