@@ -104,31 +104,42 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahdiNozari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiNozari&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahdiNozari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiNozari&theme=tokyonight&hide_border=true&background=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiNozari&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiNozari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What I'm Up To
 
-```yaml
-learning:
-  - Docker & Kubernetes
-  - CI/CD Pipelines
-  - Cloud Infrastructure (AWS/Azure)
-  - Microservices Architecture
-  
-interests:
-  - System Design & Architecture
-  - DevOps Best Practices
-  - Performance Optimization
-  - Open Source Contribution
-```
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Currently Learning
+- 🐳 **Docker** - Containerization & Orchestration
+- ☸️ **Kubernetes** - Container Management
+- 🔄 **CI/CD** - GitHub Actions, Jenkins
+- ☁️ **Cloud Platforms** - AWS, Azure
+- 🏗️ **Microservices** Architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Interests
+- 🌐 **Web Development** - Full Stack Solutions
+- 🔧 **DevOps** - Automation & Infrastructure
+- 🎨 **System Design** - Scalable Architecture
+- 📦 **Open Source** - Contributing to Community
+- ⚡ **Performance** - Optimization & Efficiency
+
+</td>
+</tr>
+</table>
 
 ---
 
