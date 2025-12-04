@@ -104,12 +104,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahdiNozari&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=3D8BFF&icon_color=3D8BFF&text_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MahdiNozari&theme=radical&hide_border=true&background=0d1117&ring=3D8BFF&fire=3D8BFF&currStreakLabel=3D8BFF" alt="GitHub Streak" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahdiNozari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiNozari&theme=tokyonight&hide_border=true&background=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiNozari&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=3D8BFF&text_color=ffffff" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiNozari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 ---
