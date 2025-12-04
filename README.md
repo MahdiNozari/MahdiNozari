@@ -14,21 +14,11 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const mahdi = {
-    role: "Software Developer",
-    location: "Kerman, Iran 🇮🇷",
-    education: "Computer Engineering @ Shahid Bahonar University",
-    currentFocus: ["Backend Development", "DevOps Tools", "System Design"],
-    learning: ["Docker", "Kubernetes", "CI/CD", "Cloud Infrastructure"],
-    interests: ["Open Source", "Web Development", "Automation"]
-};
-```
-
 - 🎓 Computer Engineering Student at **Shahid Bahonar University of Kerman**
 - 💼 Backend Developer with expertise in **Django** and **Laravel**
 - 🚀 Currently diving deep into **DevOps** practices and tools
 - 🔧 Passionate about building scalable and efficient solutions
+- 📚 Learning: **Docker, Kubernetes, CI/CD & Cloud Infrastructure**
 - 📧 Reach me at: **mahdi.nozari933@gmail.com**
 
 ---
@@ -66,25 +56,48 @@ const mahdi = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
+<table align="center">
+<tr>
+<td width="50%">
+<h3 align="center">Arad Real Estate</h3>
+<div align="center">  
 <a href="https://github.com/MahdiNozari/Arad-Realestate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahdiNozari&repo=Arad-Realestate&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
 </a>
-
-<a href="https://github.com/MahdiNozari/Library-managment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahdiNozari&repo=Library-managment&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/MahdiNozari/FileManager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahdiNozari&repo=FileManager&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/MahdiNozari/Ordering-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahdiNozari&repo=Ordering-System&theme=tokyonight&hide_border=true" />
-</a>
-
+<p><strong>Real estate management platform</strong> - Built with Django for property listings and management</p>
 </div>
+</td>
+<td width="50%">
+<h3 align="center">Library Management</h3>
+<div align="center">  
+<a href="https://github.com/MahdiNozari/Library-managment">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+</a>
+<p><strong>Library system</strong> - Complete library management solution with book tracking</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">File Manager</h3>
+<div align="center">  
+<a href="https://github.com/MahdiNozari/FileManager">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+</a>
+<p><strong>File management system</strong> - Efficient file organization and management tool</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Ordering System</h3>
+<div align="center">  
+<a href="https://github.com/MahdiNozari/Ordering-System">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+</a>
+<p><strong>Order processing platform</strong> - Streamlined ordering and inventory management</p>
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -142,8 +155,6 @@ interests:
 <div align="center">
   
 ### 💡 "The best way to predict the future is to create it." 
-
-![Profile Views](https://komarev.com/ghpvc/?username=MahdiNozari&color=3D8BFF&style=for-the-badge)
 
 ⭐️ **If you find my work interesting, feel free to star my repositories!**
 
