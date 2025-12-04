@@ -68,7 +68,7 @@
 <a href="https://github.com/MahdiNozari/Arad-Realestate">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<p><strong>Django-based Real Estate Platform</strong><br/>Advanced property management + REST API</p>
+<p><strong>Django-based Real Estate Platform</strong><br/>Advanced property management</p>
 </div>
 </td>
 
@@ -78,7 +78,7 @@
 <a href="https://github.com/MahdiNozari/Library-managment">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<p><strong>Book Tracking & Admin Panel</strong><br/>Complete CRUD system using Django</p>
+<p><strong>Book Tracking & Admin Panel</strong><br/>Complete CRUD system using C#</p>
 </div>
 </td>
 </tr>
