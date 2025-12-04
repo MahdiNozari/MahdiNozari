@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student at **Shahid Bahonar University of Kerman**
+- 🎓 Computer Engineering graduated from **Shahid Bahonar University of Kerman**
 - 💼 Backend Developer specialized in **Django**, **Django REST**, **Laravel**, and **RESTful APIs**
 - 🚀 Currently learning & practicing **DevOps**, Cloud, Containerization & automation
 - 🔧 Strong focus on **clean architecture**, **scalability**, and **high-performance backend**
@@ -114,7 +114,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahdiNozari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiNozari&theme=tokyonight&hide_border=true&background=0d1117"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiNozari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
+</div**>
 
 ---
 
@@ -164,12 +164,4 @@
   </a>
 </div>
 
----
 
-<div align="center">
-  
-### 💡 "The future belongs to those who build it."
-
-⭐ If you enjoy my work, consider starring some repositories!
-
-</div>
