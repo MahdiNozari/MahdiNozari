@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi there, I'm Mahdi Nozari 👋  
-### Backend Developer | Django & Laravel Specialist | DevOps Engineer in Progress
+### Backend Developer | Django & Laravel Specialist | DevOps Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3D8BFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+%7C+Laravel+Specialist;DevOps+Enthusiast+%F0%9F%9A%80;Building+Scalable+Solutions;Always+Learning+New+Technologies" />
 
@@ -17,7 +17,7 @@
 
 - 🎓 Computer Engineering graduated from **Shahid Bahonar University of Kerman**
 - 💼 Backend Developer specialized in **Django**, **Django REST**, **Laravel**, and **RESTful APIs**
-- 🚀 Currently learning & practicing **DevOps**, Cloud, Containerization & automation
+- 🚀 Currently learning & practicing **DevOps**, Cloud, Containerization & Automation
 - 🔧 Strong focus on **clean architecture**, **scalability**, and **high-performance backend**
 - 🧠 Interested in **Software Architecture**, **Microservices**, and **Distributed Systems**
 - 📫 Contact me: **mahdi.nozari933@gmail.com**
@@ -111,10 +111,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahdiNozari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiNozari&theme=tokyonight&hide_border=true&background=0d1117"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiNozari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div**>
+
+  <!-- Main Stats -->
+  <img height="180em" 
+       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=MahdiNozari&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <!-- Streak Stats -->
+  <img height="180em" 
+       src="https://streak-stats.demolab.com/?user=MahdiNozari&theme=tokyonight&hide_border=true" />
+
+  <!-- Top Languages -->
+  <img 
+       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=MahdiNozari&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
@@ -163,5 +173,3 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
-
-
